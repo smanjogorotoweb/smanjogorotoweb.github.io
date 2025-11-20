@@ -1,3 +1,5 @@
+Assalamualaikum|Waalaikumsalam, Silahkan ketikan pertanyaan tentang, Sistem Komputer, Hardware, Software dan Brainware.|
+halo|Hai, Silahkan ketikan pertanyaan tentang, Sistem Komputer, Hardware, Software dan Brainware.|
 VGA|VGA adalah kartu grafis yang berfungsi mengolah tampilan visual komputer.|https://i.imgur.com/9VhGmjR.png
 LAN|LAN adalah jaringan komputer lokal di area kecil seperti sekolah atau rumah.|lan.jpg
 WAN|WAN adalah jaringan komputer yang mencakup wilayah luas antar kota atau negara.|wan.jpg
@@ -8,4 +10,5 @@ ROM|ROM adalah memori permanen yang berisi instruksi bawaan.|-
 SSD|SSD adalah media penyimpanan cepat berbasis chip flash.|ssd.png
 CPU|CPU komputer adalah singkatan dari Central Processing Unit atau Unit Pemrosesan Pusat, yang sering disebut sebagai "otak" komputer. Tugas utamanya adalah menjalankan instruksi, memproses data, dan mengelola seluruh fungsi operasional komputer. CPU membaca instruksi dari memori, melakukan perhitungan, dan mengirimkan hasilnya.|https://i.imgur.com/sqbOyDV.jpeg
 Power Supply|PSU mengubah listrik AC menjadi DC untuk komputer.|psu.png
+
 
