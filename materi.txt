@@ -21,3 +21,4 @@ Power Supply|PSU mengubah listrik AC menjadi DC untuk komputer.|psu.png
 
 
 
+
