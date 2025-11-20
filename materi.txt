@@ -1,12 +1,22 @@
 Assalamualaikum|Waalaikumsalam, Silahkan ketikan pertanyaan tentang, Sistem Komputer, Hardware, Software dan Brainware.|
 halo|Hai, Silahkan ketikan pertanyaan tentang, Sistem Komputer, Hardware, Software dan Brainware.|
 Sistem Komputer|Sistem Komputer merupakan sekumpulan perangkat komputer yang saling berkaitan dan berinteraksi antara satu sama lain untuk menjalankan sebuah Proses Pengolahan Data, sehingga dapat menghasilkan suatu informasi yang sangat dibutuhkan oleh penggunanya. Sistem Komputer terdiri dari beberapa komponen pembangun dari sebuah Sistem yaitu, Hardware, Software dan juga Brainware.
+Fungsi Sistem Komputer|Fungsi dari Sistem Komputer terbagi menjadi beberapa peran, diantaranya sebagai berikut: (a) Menginput sebuah Data, merupakan salah satu fungsi dari sistem komputer yaitu menginput data yang sudah ada ke dalam sebuah komputer. Sistem komputer bertugas untuk menginput segala macam jenis data yang telah dimasukkan oleh seorang pengguna melalui sebuah perangkat Hardware seperti Mouse, Keyboard, Microphone dan lain sebagainya. (b) Memproses sebuah Data, merupakan salah satu fungsi dari sebuah Sistem Komputer yaitu untuk melakukan suatu Process yang bertugas untuk mentransfer sebuah data mentah menjadi suatu informasi yang bisa dibaca oleh memori komputer. Sebuah Proses data ini biasanya dilakukan pada suatu Central Processing Unit ( CPU ) yang juga memiliki fungsi sebagai otak komputer. (c)  Menghasilkan sebuah Data, merupakan salah satu Fungsi dari Sistem Komputer yang bertugas untuk menghasilkan sebuah Output yang merupakan salah satu hasil dari data yang sudah diproses. Hasil dari Output tersebut bisa berupa sebuah informasi, gambar, suara maupun video yang sudah sejak awal memang termasuk kedalam sebuah pengolahan data. (d)  Menyimpan sebuah Data, merupakan salah satu fungsi dari sistem komputer yang bertugas untuk menyimpan data Output yang merupakan hasil dari olahan sebuah Process didalam memori komputer. Jadi, data yang sudah diinput dan diproses akan menjadi sebuah Output Data yang bisa kita simpan di dalam sebuah memori komputer yang nantinya bisa digunakan dalam waktu tertentu.
+Hardware|Hardware adalah semua perangkat fisik komputer yang dapat dilihat dan disentuh secara langsung. Dengan kata lain, hardware adalah bagian keras komputer. Contoh Hardware berdasarkan kategori input device, Processing device, Output device, Storage
+Input device|adalah data atau perintah yang dimasukkan ke komputer melalui perangkat input. Contoh perangkat input:keyboard, mouse, scanner, Joystick, Lightpen, webcam, microphone|https://i.imgur.com/9VhGmjR.png
+Processing device|adalah tahap pengolahan data yang dilakukan oleh unit pemroses (processor).Proses dilakukan oleh:CPU (ALU, CU, Register, Cache), GPU(VGA), Chipset, RAM (sebagai pendukung proses) dan Coprocessor (processor)|https://i.imgur.com/ku68vbM.png 
+Output device|adalah hasil akhir setelah data diproses oleh komputer. contoh perangkat output:monitor, printer, speaker, Proyektor, Plotter|https://i.imgur.com/nF7AC66.png 
+Storage|adalah tempat menyimpan data dan instruksi, baik sementara maupun permanen. Contoh storage: hard disk, SSD, flashdisk, Memory Card, G.Drive, Onedrive, iCloud, Dropbox|https://i.imgur.com/LSaB8wS.png
+Fungsi Hardware|(1)Menerima input dari pengguna (2)Memproses data (3)Menyimpan data (4)Menampilkan output
+Mouse|Perangkat keras yang berukuran kecil dan mudah digenggam yang umumnya memiliki dua tombol dan sebuah bola atau laser di bawahnya untuk menggerakkan kursor (pointer). Fungsi mouse adalah untuk menggerakkan kursor, melakukan scroll (pada mouse jenis tertentu), di mana keduanya akan membuat komputer bisa menjalankan perintah yang diinginkan pengguna.|https://i.imgur.com/BdWfS47.jpeg 
+Keyboard|Perangkat yang digunakan untuk memasukkan data berupa huruf, angka, dan simbol serta melakukan perintah-perintah pada komputer.|https://i.imgur.com/8DT5qvT.jpeg
 VGA|VGA adalah kartu grafis yang berfungsi mengolah tampilan visual komputer.|https://i.imgur.com/jtxWEg2.png
 RAM|RAM adalah memori sementara yang digunakan untuk menyimpan data aktif saat komputer berjalan.|https://i.imgur.com/QZN19lC.jpeg
-ROM|ROM adalah memori permanen yang berisi instruksi bawaan.|-
-SSD|SSD adalah media penyimpanan cepat berbasis chip flash.|ssd.png
+ROM|ROM adalah memori permanen yang berisi instruksi bawaan.|https://i.imgur.com/pgXGgf6.png
+SSD|SSD adalah media penyimpanan cepat berbasis chip flash.|https://i.imgur.com/rgy6MnV.jpeg
 CPU|CPU komputer adalah singkatan dari Central Processing Unit atau Unit Pemrosesan Pusat, yang sering disebut sebagai "otak" komputer. Tugas utamanya adalah menjalankan instruksi, memproses data, dan mengelola seluruh fungsi operasional komputer. CPU membaca instruksi dari memori, melakukan perhitungan, dan mengirimkan hasilnya.|https://i.imgur.com/sqbOyDV.jpeg
-Power Supply|PSU mengubah listrik AC menjadi DC untuk komputer.|psu.png
+Power Supply|PSU mengubah listrik AC menjadi DC untuk komputer.|https://i.imgur.com/izkAVFN.png
+
 
 
 
