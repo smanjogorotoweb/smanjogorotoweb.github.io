@@ -1,9 +1,6 @@
 Assalamualaikum|Waalaikumsalam, Silahkan ketikan pertanyaan tentang, Sistem Komputer, Hardware, Software dan Brainware.|
 halo|Hai, Silahkan ketikan pertanyaan tentang, Sistem Komputer, Hardware, Software dan Brainware.|
-Sistem Komputer|Sistem Komputer merupakan sekumpulan perangkat komputer yang saling berkaitan dan berinteraksi antara satu sama lain untuk menjalankan sebuah Proses Pengolahan Data, sehingga dapat menghasilkan suatu informasi yang sangat dibutuhkan oleh penggunanya. Sistem Komputer terdiri dari beberapa komponen pembangun dari sebuah Sistem yaitu, Hardware, Software dan juga Brainware. 
-  -Setiap perangkat tersebut mempunyai fungsinya masing-masing pada sebuah Sistem Komputer.
-  -Saat menjalankan tugasnya perangkat Komputer tersebut akan bekerja dan saling mendukung antara satu sama lain.
-  -Hardware tidak dapat bekerja jika tanpa adanya sebuah Software dan Hardware pun begitu, keduanya tidak akan bisa dipakai untuk menghasilkan suatu informasi jika tidak ada sebuah Brainware yang menjalankan dan memberikan perintah.
+Sistem Komputer|Sistem Komputer merupakan sekumpulan perangkat komputer yang saling berkaitan dan berinteraksi antara satu sama lain untuk menjalankan sebuah Proses Pengolahan Data, sehingga dapat menghasilkan suatu informasi yang sangat dibutuhkan oleh penggunanya. Sistem Komputer terdiri dari beberapa komponen pembangun dari sebuah Sistem yaitu, Hardware, Software dan juga Brainware.|- Setiap perangkat tersebut mempunyai fungsinya masing-masing pada sebuah Sistem Komputer.|- Saat menjalankan tugasnya perangkat Komputer tersebut akan bekerja dan saling mendukung antara satu sama lain.|- Hardware tidak dapat bekerja jika tanpa adanya sebuah Software dan Hardware pun begitu, keduanya tidak akan bisa dipakai untuk menghasilkan suatu informasi jika tidak ada sebuah Brainware yang menjalankan dan memberikan perintah.
 VGA|VGA adalah kartu grafis yang berfungsi mengolah tampilan visual komputer.|https://i.imgur.com/9VhGmjR.png
 LAN|LAN adalah jaringan komputer lokal di area kecil seperti sekolah atau rumah.|lan.jpg
 WAN|WAN adalah jaringan komputer yang mencakup wilayah luas antar kota atau negara.|wan.jpg
@@ -14,6 +11,7 @@ ROM|ROM adalah memori permanen yang berisi instruksi bawaan.|-
 SSD|SSD adalah media penyimpanan cepat berbasis chip flash.|ssd.png
 CPU|CPU komputer adalah singkatan dari Central Processing Unit atau Unit Pemrosesan Pusat, yang sering disebut sebagai "otak" komputer. Tugas utamanya adalah menjalankan instruksi, memproses data, dan mengelola seluruh fungsi operasional komputer. CPU membaca instruksi dari memori, melakukan perhitungan, dan mengirimkan hasilnya.|https://i.imgur.com/sqbOyDV.jpeg
 Power Supply|PSU mengubah listrik AC menjadi DC untuk komputer.|psu.png
+
 
 
 
