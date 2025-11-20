@@ -1,0 +1,10 @@
+VGA|VGA adalah kartu grafis yang berfungsi mengolah tampilan visual komputer.|https://i.imgur.com/9VhGmjR.png
+LAN|LAN adalah jaringan komputer lokal di area kecil seperti sekolah atau rumah.|lan.jpg
+WAN|WAN adalah jaringan komputer yang mencakup wilayah luas antar kota atau negara.|wan.jpg
+Router|Router adalah perangkat yang menghubungkan dua jaringan berbeda.|router.png
+Firewall|Firewall adalah sistem keamanan yang memfilter lalu lintas data masuk dan keluar.|firewall.png
+RAM|RAM adalah memori sementara yang digunakan untuk menyimpan data aktif saat komputer berjalan.|-
+ROM|ROM adalah memori permanen yang berisi instruksi bawaan.|-
+SSD|SSD adalah media penyimpanan cepat berbasis chip flash.|ssd.png
+CPU|CPU adalah otak komputer yang memproses semua instruksi.|cpu.jpg
+Power Supply|PSU mengubah listrik AC menjadi DC untuk komputer.|psu.png
