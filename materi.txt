@@ -6,5 +6,6 @@ Firewall|Firewall adalah sistem keamanan yang memfilter lalu lintas data masuk d
 RAM|RAM adalah memori sementara yang digunakan untuk menyimpan data aktif saat komputer berjalan.|-
 ROM|ROM adalah memori permanen yang berisi instruksi bawaan.|-
 SSD|SSD adalah media penyimpanan cepat berbasis chip flash.|ssd.png
-CPU|CPU adalah otak komputer yang memproses semua instruksi.|cpu.jpg
+CPU|CPU komputer adalah singkatan dari Central Processing Unit atau Unit Pemrosesan Pusat, yang sering disebut sebagai "otak" komputer. Tugas utamanya adalah menjalankan instruksi, memproses data, dan mengelola seluruh fungsi operasional komputer. CPU membaca instruksi dari memori, melakukan perhitungan, dan mengirimkan hasilnya.|https://i.imgur.com/sqbOyDV.jpeg
 Power Supply|PSU mengubah listrik AC menjadi DC untuk komputer.|psu.png
+
